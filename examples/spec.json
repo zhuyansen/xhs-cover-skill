@@ -1,0 +1,23 @@
+{
+  "out": "example",
+  "line1": "10 个 AI 设计工具",
+  "line2": "这 3 个不撞脸",
+  "accent": "#7CF0C8",
+  "shadow": "#B14CFF",
+  "cards": [
+    {
+      "small": "同一份需求",
+      "big": "22 个网页"
+    },
+    {
+      "small": "和默认一模一样",
+      "big": "2 个",
+      "color": "#FF5A5A"
+    },
+    {
+      "small": "跳得最远",
+      "big": "9.4 万★"
+    }
+  ],
+  "question": "谁能跳出来？"
+}
